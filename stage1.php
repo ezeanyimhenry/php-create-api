@@ -13,8 +13,8 @@ date_default_timezone_set('UTC');
 $currentUtcTime = date('Y-m-d\TH:i:s\Z');
 
 // Get the GitHub file URL and repo URL (replace with your URLs)
-$githubFileUrl = 'https://github.com/ezeanyimhenry/repo/blob/main/file_name.ext';
-$githubRepoUrl = 'https://github.com/ezeanyimhenry/repo';
+$githubFileUrl = 'https://github.com/ezeanyimhenry/php-create-api/blob/main/stage1.php';
+$githubRepoUrl = 'https://github.com/ezeanyimhenry/php-create-api';
 
 // Define the response data
 $response = [
